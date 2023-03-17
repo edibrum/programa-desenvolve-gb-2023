@@ -1,0 +1,26 @@
+.banner__imagem {
+    height: 600px;
+    transition: all .7s ease-in-out;
+
+}
+
+.banner__imagem:hover {
+    transform: scale(1.12);
+}
+
+@media screen and (min-width: 0px) {
+    .banner__imagem {
+        height: 150px;
+    }
+
+@media screen and (min-width: 350px) {
+    .banner__imagem {
+        height: 200px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .banner__imagem {
+        height: 600px;
+    }
+}
+

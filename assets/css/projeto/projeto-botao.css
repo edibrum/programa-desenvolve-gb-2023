@@ -1,0 +1,15 @@
+.projeto__botao {
+    background: var(--cor-botao);
+    border: var(--cor-borda-botao);
+    border-radius: 5px;
+    color: var(--cor-texto-botao);
+    width: 100%;
+    padding: 1rem;
+    margin: .45rem auto;
+    transition: all .1s ease-in-out;
+}
+
+.projeto__botao:hover {
+    background: var(--cor-botao-hover);
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.sites {
+    display: flex;
+    justify-content: space-around;
+    padding-top: .5rem;
+    padding-bottom: 3rem;
+    background-color: var(--cor-fundo-sites);
+}
+
+@media screen and (min-width: 0) {
+    .sites {
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 768px) {
+    .sites {
+        flex-direction: row;
+    }
+}

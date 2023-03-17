@@ -1,0 +1,22 @@
+.projetos {
+    background: var(--cor-fundo-projetos);
+    display: flex;
+    flex-wrap: wrap;
+    color: var(--cor-texto-projetos);
+}
+
+@media screen and (min-width: 0) {
+    .projetos {
+        padding: 5rem 0 0 1rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .projetos {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+@media screen and (min-width: 992px) {
+    .projetos {
+        padding: 5rem 0 0 5rem;
+    }
+}

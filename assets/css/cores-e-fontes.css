@@ -1,0 +1,54 @@
+:root {
+    /*###########################################*/
+    /*CORES - GERAIS QUE PRETENDO USAR:*/
+    --branco: #FFF;
+    --preto: #000;
+    --cinza: #666;
+    --cinza-claro: #CCCCCC;
+    --cinza-escuro: #353434;
+    --rosa: #FF87A3;
+    --roxo: #49326b;
+    --amarelo: #D3DB2D;      /*logo do GB*/
+    --azul: #416E98;         /*logo do GB*/
+    --laranja: #EB5A2D;      /*logo do GB*/
+    /*###########################################*/
+
+    /*VARIÁVEIS CRIADAS PARA ESTE PROJETO:*/
+    /*PARA OS TEXTOS*/
+    --fonte-titulos-maiores: 'Pacifico', cursive;
+    --cor-titulos-maiores: #D3DB2D;
+    
+    --fonte-principal: 'Montserrat', sans-serif;
+    --cor-texto-principal:#000;
+    
+    /*PARA OS BOTÕES:*/
+    --fonte-botoes: 'Montserrat', sans-serif;
+    --cor-botao: #416E98;
+    --cor-botao-hover: #EB5A2D;
+    --cor-borda-botao:#fff;
+    --cor-texto-botao:#fff;
+
+    /*PARA AS SESSÕES:*/
+    --cor-fundo-cabecalho: #416E98;
+    --cor-texto-cabecalho:#FFF;
+    --cor-texto-cabecalho-hover:#D3DB2D;
+    --cor-texto-cabecalho-ativo:#D3DB2D;
+
+    --cor-fundo-banner: #416E98;
+
+    --cor-fundo-portfolio: #416E98;
+    --cor-texto-portfolio:#fff;
+
+    --cor-fundo-projetos:#FFF;
+    --cor-texto-projetos:#416E98;
+
+    
+    --cor-fundo-o-programa:#FFF;
+    --cor-texto-o-programa:#416E98;
+
+    --cor-fundo-sites: #fff;
+
+    --cor-fundo-rodape: #416E98;
+    --cor-texto-rodape:#fff;
+
+}

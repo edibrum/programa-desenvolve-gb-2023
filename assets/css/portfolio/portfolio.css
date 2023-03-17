@@ -1,0 +1,15 @@
+.portfolio {
+    text-align: center;
+    background-color: var(--cor-fundo-portfolio);
+}
+
+@media screen and (min-width: 0) {
+    .portfolio {
+        padding: 2.5rem 1rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .portfolio {
+        padding: 2.5rem;
+    }
+}

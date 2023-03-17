@@ -1,0 +1,10 @@
+.projeto__imagem {
+    height: 150px;
+    opacity: 70%;
+    transition: all .1s ease-in-out;
+}
+
+.projeto__imagem:hover {
+    opacity: 100%;
+
+}

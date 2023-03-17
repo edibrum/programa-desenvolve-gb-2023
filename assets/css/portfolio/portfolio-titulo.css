@@ -1,0 +1,15 @@
+.portfolio__titulo {
+    color: var(--cor-titulos-maiores);
+    font-family: var(--fonte-titulos-maiores);
+}
+
+@media screen and (min-width: 0) {
+    .portfolio__titulo {
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .portfolio__titulo {
+        font-size: 3.1875rem;
+    }
+}

@@ -1,0 +1,26 @@
+.site__imagem {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 100px;
+    margin: 0 auto;
+    width: 100px;
+    transition: all .7s ease-in-out;
+}
+
+.site__imagem:hover {
+    transform: scale(.5);
+}
+
+.site__imagem--desenvolve {
+    background-image: url('../../img/sites/logo_desenvolve_fundo.png');
+}
+
+.site__imagem--gb {
+    background-image: url('../../img/sites/logo_gb_fundo.png');
+}
+
+.site__imagem--alura {
+    background-image: url('../../img/sites/logo_alura_fundo.jpg');
+}

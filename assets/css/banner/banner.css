@@ -1,0 +1,5 @@
+.banner {
+    background: var(--cor-fundo-banner);
+    display: flex;
+    justify-content: flex-end;
+}

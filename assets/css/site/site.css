@@ -1,0 +1,15 @@
+.site {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 0) {
+    .site {
+        margin-bottom: 2rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .site {
+        margin-bottom: 0;
+    }
+}

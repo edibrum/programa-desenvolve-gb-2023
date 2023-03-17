@@ -1,0 +1,44 @@
+:root {
+    /*CORES - GERAIS:*/
+    --branco: #FFF;
+    --preto: #000;
+    --cinza: #666;
+    --cinza-claro: #CCCCCC;
+    --cinza-escuro: #353434;
+    --rosa: #FF87A3;
+    --roxo: #49326b;
+    --amarelo: #D3DB2D;      /*logo do GB*/
+    --azul: #416E98;         /*logo do GB*/
+    --laranja: #EB5A2D;      /*logo do GB*/
+
+    /*CORES - FONTES:*/
+    --fonte-em-strong: red;
+    --fonte-nav-a: #000;
+    --fonte-nav-a-hover: #C78C19;
+    --fonte-copyright: #FFF;
+    --fonte-enviar: #FFF;
+
+    /*CORES - FUNDOS:*/
+    --bg-header: #BBBBBB;
+    --bg-principal: #FEFEFE;
+    --bg-botao-enviar: orange;
+    --bg-botao-enviar-hover: darkorange;
+    --bg-beneficios: #888888;
+    --bg-footer: #888888;
+    --bg-enviar: #C78C19;
+
+
+     /*CORES - BORDAS:*/
+    --borda-produtos-li: #000;
+    --borda-produtos-li-hover: #C78C19;
+    --borda-produtos-li-active: #088C19;
+    --borda-beneficios-imagem: #000;
+
+    /*FONTE - LETRAS:*/
+    --fonte-body: 'Montserrat', sans-serif;
+
+    /*TABELAS:*/
+    --bg-thead: #555555;
+    --fonte-thead: white;
+    --borda-td-th: #000;
+}

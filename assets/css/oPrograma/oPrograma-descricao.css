@@ -1,0 +1,11 @@
+.o-programa__descricao {
+    color: var(--cor-texto-o-programa);
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+
+@media screen and (min-width: 0) {
+    .o-programa__descricao {
+        font-size: 1.125rem;
+    }
+}

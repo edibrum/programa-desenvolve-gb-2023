@@ -1,0 +1,25 @@
+.contato__icone {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    opacity:100%;
+    transition: all .1s ease-in-out;
+}
+
+.contato__icone:hover {
+    opacity:80%;
+}
+
+.contato__icone--linkedin {
+    background-image: url('../../img/contatos/icone-linkedin.png');
+}
+
+.contato__icone--github {
+    background-image: url('../../img/contatos/icone-github.png');
+}
+
+.contato__icone--instagram {
+    background-image: url('../../img/contatos/icone-instagram.png');
+}

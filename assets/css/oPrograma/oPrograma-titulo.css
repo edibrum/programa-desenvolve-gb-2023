@@ -1,0 +1,6 @@
+.o-programa__titulo {
+    color: var(--cor-titulos-maiores);
+    font-family: var(--fonte-titulos-maiores);
+    font-size: 3.1875rem;
+    margin-bottom: 1rem;
+}
