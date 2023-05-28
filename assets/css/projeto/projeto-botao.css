@@ -13,3 +13,25 @@
     background: var(--cor-botao-hover);
     cursor: pointer;
 }
+
+
+.projeto__idioma {
+    background: var(--cor-botao-outro-idioma);
+    border: var(--cor-borda-botao);
+    border-radius: 5px;
+    color: var(--cor-texto-idioma);
+    font-size: .75rem;
+    width: 100%;
+    padding: 1rem;
+    margin: .45rem auto;
+    transition: all .1s ease-in-out;
+}
+
+.projeto__idioma--ativo {
+    background: var(--cor-botao-idioma);
+}
+
+.projeto__idioma:hover {
+    background: var(--cor-botao-idioma);
+    cursor: pointer;
+}

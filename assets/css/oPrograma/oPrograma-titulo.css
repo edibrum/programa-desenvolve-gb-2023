@@ -4,3 +4,7 @@
     font-size: 3.1875rem;
     margin-bottom: 1rem;
 }
+
+.o-programa__titulo--ingles {
+    font-family: var(--fonte-titulos-ingles);
+}

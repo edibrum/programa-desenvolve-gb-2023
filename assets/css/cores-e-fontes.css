@@ -16,6 +16,7 @@
     /*VARIÁVEIS CRIADAS PARA ESTE PROJETO:*/
     /*PARA OS TEXTOS*/
     --fonte-titulos-maiores: 'Pacifico', cursive;
+    --fonte-titulos-ingles: 'Amaranth';
     --cor-titulos-maiores: #D3DB2D;
     
     --fonte-principal: 'Montserrat', sans-serif;
@@ -27,6 +28,11 @@
     --cor-botao-hover: #EB5A2D;
     --cor-borda-botao:#fff;
     --cor-texto-botao:#fff;
+
+    --cor-botao-idioma: #D3DB2D;
+    --cor-botao-outro-idioma:#416E98;
+
+
 
     /*PARA AS SESSÕES:*/
     --cor-fundo-cabecalho: #416E98;

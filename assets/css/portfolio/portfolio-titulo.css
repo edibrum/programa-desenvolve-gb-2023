@@ -3,6 +3,10 @@
     font-family: var(--fonte-titulos-maiores);
 }
 
+.portfolio__titulo--ingles {
+    font-family: var(--fonte-titulos-ingles);
+}
+
 @media screen and (min-width: 0) {
     .portfolio__titulo {
         font-size: 2rem;

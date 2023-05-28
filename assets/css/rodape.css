@@ -16,6 +16,10 @@
     margin: 1.5rem 0;
 }
 
+.rodape__titulo--ingles {
+    font-family: var(--fonte-titulos-ingles);
+}
+
 @media screen and (min-width: 0) {
     .rodape {
         font-size: 1.125rem;
