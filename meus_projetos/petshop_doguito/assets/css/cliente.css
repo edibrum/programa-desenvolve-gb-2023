@@ -1,3 +1,9 @@
+.cadastro {
+    display: flex;
+    flex-direction: column;
+}
+
+
 .clientes-container {
     padding-right: 1rem;
     padding-left: 1rem;
