@@ -1,0 +1,32 @@
+{
+  "profile": [
+    {
+      "nome": "admin",
+      "email": "admin@admin.com",
+      "id": 1
+    },
+    {
+      "nome": "maria cliente teste",
+      "email": "maria@maria",
+      "id": 2
+    },
+    {
+      "nome": "joao cliente teste",
+      "email": "joao@cliente",
+      "id": 3
+    },
+    {
+      "nome": "joaquim cliente teste",
+      "email": "joaquim@cliente",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "nome": "ração",
+      "preco": 17.50,
+      "descricao": "pacote 250gr"
+    }
+  ]
+}
